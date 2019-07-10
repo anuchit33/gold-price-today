@@ -13,7 +13,7 @@
             </div>
         </div>
         <br/>
-        <img style="width: 100%;" src="/wp-content/plugins/gold-price-thai/inc/images/screen-shot.png" />
+        <img style="width: 100%;" src="/wp-content/plugins/gold-price-today/inc/images/screen-shot.png" />
     
 
        

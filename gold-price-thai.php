@@ -5,7 +5,7 @@ Plugin URI: https://github.com/anuchit33/gold-price-today
 Description: ราคาทองคำวันนี้
 Author: Anuchit Yai-in
 Version: 0.0.1
-Author URI: https://github.com/anuchit33/gold-price-today
+Author URI: https://github.com/anuchit33/
 */
 
 class GoldPriceToday {

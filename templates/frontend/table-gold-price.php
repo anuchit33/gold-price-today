@@ -1,6 +1,6 @@
 <?php
 # wp_enqueue_style
-wp_enqueue_style('style-css', '/wp-content/plugins/gold-price-thai/inc/css/style.css');
+wp_enqueue_style('style-css', '/wp-content/plugins/gold-price-today/inc/css/style.css');
 ?>
 <h1>ราคาทองวันนี้</h1>
 <input type="date" value="<?=date('Y-m-d')?>" max="<?=date('Y-m-d')?>" name="date" id="inputDate" />

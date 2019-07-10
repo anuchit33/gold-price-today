@@ -7,7 +7,7 @@
                 <h3>Shortcode:</h3>
 
                 <span class="shortcode">
-                    <input type="text" onfocus="this.select();" readonly="readonly" value="[gold-price-thai]" class="large-text code">
+                    <input type="text" onfocus="this.select();" readonly="readonly" value="[gold-price-today]" class="large-text code">
                 </span>
 
             </div>

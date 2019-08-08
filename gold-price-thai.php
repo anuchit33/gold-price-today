@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Gold Price Today
+Plugin Name: Gold Price Today2
 Plugin URI: https://github.com/anuchit33/gold-price-today
 Description: ราคาทองคำวันนี้
 Author: Anuchit Yai-in
-Version: 0.0.1
+Version: 0.0.2
 */
 
 class GoldPriceToday {
